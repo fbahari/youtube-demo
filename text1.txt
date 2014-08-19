@@ -4,6 +4,3 @@ line3
 
 line 5
 new w/ github
-
-
-now with the gui one
