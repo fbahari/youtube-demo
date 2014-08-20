@@ -7,5 +7,7 @@ new w/ github
 
 
 
-Now here is tiem to mess around with branching remotely
+Now here is time to mess around with branching remotely
+
+typo correction
 
